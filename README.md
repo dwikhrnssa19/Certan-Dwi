@@ -17,7 +17,7 @@
 
 | Nama | NIM | Username GitHub | Kontribusi utama |
 |---|---|---|---|
-| ✍️ | ✍️ | ✍️ | ✍️ misal: menjalankan eksperimen, menulis Bagian 3 |
+| Dwi Izzati Khairunnisa | 123430084 | dwikhrnssa19 | Ketua anggota |
 | ✍️ | ✍️ | ✍️ | ✍️ |
 | ✍️ | ✍️ | ✍️ | ✍️ |
 
@@ -44,7 +44,7 @@ Augmentasi apa yang membantu U-Net menemukan polip pada citra kolonoskopi, dan a
 | Skenario | Augmentasi (kode) | Alasan klinis | Hipotesis: Dice naik/turun/sama? |
 |---|---|---|---|
 | Tanpa augmentasi | — | Pembanding | — |
-| ✍️ | ✍️ `v2....` | ✍️ | ✍️ |
+| Saturasi | v2.ColorJitter(saturation=0.3) | Warna tidak boleh terlalu pucat/pekat supaya mudah dideteksi dan disegmentasi | dice naik |
 | ✍️ | ✍️ `v2....` | ✍️ | ✍️ |
 
 Contoh augmentasi yang dicoba:
