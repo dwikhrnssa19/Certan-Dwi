@@ -18,7 +18,7 @@
 | Nama | NIM | Username GitHub | Kontribusi utama |
 |---|---|---|---|
 | Dwi Izzati Khairunnisa | 123430084 | dwikhrnssa19 | Ketua anggota |
-| ✍️ | ✍️ | ✍️ | ✍️ |
+| Nahdia Shofi Rahayu | 123430100 | nahdia100 | anggota kelompok |
 | ✍️ | ✍️ | ✍️ | ✍️ |
 
 ## 1. Pertanyaan
