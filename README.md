@@ -80,14 +80,13 @@ Gemini digunakan untuk membantu memahami alur kerja Git dan Google Colab, menyus
 ```bash
 uv sync
 uv run jupyter lab segmentasi_polip.ipynb
-<<<<<<< HEAD
 ```
-=======
-'''
->>>>>>> 77e1e76951eb2be6ac3f1b3209ddc9ea8a93cdfa
 
 Atau buka notebook di Google Colab (Runtime → Change runtime type → T4 GPU).
 
 ## Referensi
 - Jha, D., dkk. (2020). Kvasir-SEG: A Segmented Polyp Dataset. MultiMedia Modeling (MMM 2020), 451–462.
 - Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. MICCAI. arXiv:1505.04597.
+- Tong, Y., et al. (2025). “Dynamic Frequency-Decoupled Refinement Network for Polyp Segmentation.” Bioengineering, 12(3), 277. https://doi.org/10.3390/bioengineering12030277
+- Norouziazad, F., et al. (2025). “Robust Colonoscopy Polyp Segmentation Using Dynamic-Nu T-Loss with Multi-Scale and Uncertainty-Aware Adaptation.” Frontiers in Medicine. https://doi.org/10.3389/fmed.2025.1657123
+- Taha, A. A., & Hanbury, A. (2015). “Metrics for Evaluating 3D Medical Image Segmentation: Analysis, Selection, and Tool.” BMC Medical Imaging, 15, 29. https://doi.org/10.1186/s12880-015-0068-x
