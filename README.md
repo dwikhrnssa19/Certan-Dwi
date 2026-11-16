@@ -80,6 +80,7 @@ Gemini digunakan untuk membantu memahami alur kerja Git dan Google Colab, menyus
 ```bash
 uv sync
 uv run jupyter lab segmentasi_polip.ipynb
+'''
 
 Atau buka notebook di Google Colab (Runtime → Change runtime type → T4 GPU).
 
