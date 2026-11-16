@@ -80,3 +80,9 @@ Gemini digunakan untuk membantu memahami alur kerja Git dan Google Colab, menyus
 ```bash
 uv sync
 uv run jupyter lab segmentasi_polip.ipynb
+
+Atau buka notebook di Google Colab (Runtime → Change runtime type → T4 GPU).
+
+## Referensi
+- Jha, D., dkk. (2020). Kvasir-SEG: A Segmented Polyp Dataset. MultiMedia Modeling (MMM 2020), 451–462.
+- Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. MICCAI. arXiv:1505.04597.
